@@ -1,56 +1,52 @@
-# Rodando — desarrollo web y e-commerce
-
 <p align="center">
-  <img src="assets/rodando-logo.png" alt="Rodando" width="220">
+  <img src="assets/rodando-logo.jpg" alt="Rodando" width="520">
 </p>
 
-![Rodando — marketplace de bicicletas](assets/rodando-portada.jpg)
+<h1 align="center">Rodando Marketplace</h1>
 
-**Rodando** es un proyecto uruguayo desarrollado en equipo para crear una experiencia digital especializada en bicicletas. El producto se encuentra disponible en [rodando.uy](https://rodando.uy/).
+<p align="center">
+  Marketplace uruguayo especializado en bicicletas usadas.<br>
+  <a href="https://rodando.uy/"><strong>Visitar rodando.uy ↗</strong></a>
+</p>
+
+![Rodando Marketplace](assets/rodando-hero.jpg)
+
+## El proyecto
+
+Rodando es un proyecto grupal que busca ofrecer una experiencia digital especializada para comprar y vender bicicletas usadas en Uruguay. El trabajo combina producto, operación, comunicación y tecnología en una plataforma web disponible públicamente.
 
 ## Mi aporte
 
-Mi responsabilidad principal dentro del equipo fue el **desarrollo de la plataforma web y su experiencia de e-commerce**. Trabajé en convertir los requerimientos del proyecto en una experiencia pública clara, responsive y coherente con la identidad de Rodando.
+Mi responsabilidad principal dentro del equipo fue el **desarrollo de la plataforma web y del e-commerce**, transformando los requerimientos del proyecto en una experiencia clara, responsive y coherente con la identidad de Rodando.
 
-Entre mis contribuciones se encuentran:
+Trabajé principalmente en:
 
-- Desarrollo y evolución de la interfaz web.
-- Construcción de una experiencia responsive para escritorio y dispositivos móviles.
-- Implementación y personalización de las vistas públicas del e-commerce.
-- Desarrollo de navegación, catálogo y páginas de producto.
-- Integración de la identidad visual con la experiencia de compra y publicación.
-- Pruebas, correcciones visuales y mantenimiento del sitio en producción.
-- Coordinación con el resto del equipo para traducir decisiones de producto en funcionalidades web.
+- Desarrollo y evolución de la interfaz pública.
+- Implementación responsive para escritorio y dispositivos móviles.
+- Personalización de la experiencia de e-commerce.
+- Construcción de la navegación, el catálogo y las páginas de producto.
+- Integración de la identidad visual en los distintos recorridos de la plataforma.
+- Pruebas, correcciones visuales, publicación y mantenimiento del sitio.
+- Coordinación técnica con el equipo para convertir decisiones de producto en funcionalidades web.
 
-## Trabajo en equipo
+## Equipo
 
-Rodando es un **proyecto grupal**. Las decisiones de producto, operación e identidad se trabajaron de forma colaborativa. Mi foco principal estuvo en la implementación técnica del sitio y del e-commerce, mientras que el resultado final reúne aportes de distintas áreas del equipo.
+Rodando fue desarrollado de manera colaborativa. Las decisiones de producto, identidad y operación reúnen el trabajo de distintas áreas; mi foco principal fue la implementación técnica de la web y del e-commerce.
 
-**Colaboradores del proyecto:**
-
-- [Facundo Díaz — @facundevucu](https://github.com/facundevucu)
-- [Domingo — @Domingo1899](https://github.com/Domingo1899)
+- [Marcos Devincenzi](https://github.com/marcosdevin04-bit) — desarrollo web y e-commerce.
+- [Facundo Díaz](https://github.com/facundevucu) — colaborador del proyecto.
+- [Domingo](https://github.com/Domingo1899) — colaborador del proyecto.
 
 ## Tecnologías
 
 `WordPress` · `WooCommerce` · `PHP` · `JavaScript` · `HTML` · `CSS` · `Responsive Web Design` · `Git`
 
-## Alcance de este repositorio
+## Confidencialidad comercial
 
-Este repositorio funciona exclusivamente como **caso de estudio para portfolio**. Por confidencialidad y seguridad, deliberadamente no contiene:
+Rodando es un proyecto real y en evolución. Por razones comerciales, de seguridad y de privacidad, el repositorio público no incluye el código de producción, la lógica interna del negocio, configuraciones, integraciones privadas, bases de datos ni documentación operativa.
 
-- Código fuente de producción.
-- Lógica comercial u operativa interna.
-- Configuraciones, credenciales o integraciones privadas.
-- Bases de datos o información de usuarios.
-- Documentación estratégica o procesos internos del negocio.
-
-Las imágenes incluidas corresponden únicamente a material público de presentación. La implementación completa permanece en los entornos privados del proyecto.
-
-## Sitio
-
-➡️ [Visitar rodando.uy](https://rodando.uy/)
+Esta presentación muestra el producto y mi participación profesional sin exponer activos internos del proyecto.
 
 ---
 
-Rodando y sus recursos de marca pertenecen al proyecto. Este repositorio no distribuye software de código abierto ni concede derechos de reutilización sobre la marca o sus materiales.
+Rodando y sus recursos de marca pertenecen al proyecto. Este repositorio no concede derechos de reutilización sobre la marca ni sus materiales.
