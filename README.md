@@ -26,6 +26,11 @@ Entre mis contribuciones se encuentran:
 
 Rodando es un **proyecto grupal**. Las decisiones de producto, operación e identidad se trabajaron de forma colaborativa. Mi foco principal estuvo en la implementación técnica del sitio y del e-commerce, mientras que el resultado final reúne aportes de distintas áreas del equipo.
 
+**Colaboradores del proyecto:**
+
+- [Facundo Díaz — @facundevucu](https://github.com/facundevucu)
+- [Domingo — @Domingo1899](https://github.com/Domingo1899)
+
 ## Tecnologías
 
 `WordPress` · `WooCommerce` · `PHP` · `JavaScript` · `HTML` · `CSS` · `Responsive Web Design` · `Git`
